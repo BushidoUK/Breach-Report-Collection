@@ -11,7 +11,7 @@
 | CircleCI | January 2023 | Unknown | [circleci.com](https://circleci.com/blog/jan-4-2023-incident-report/) |
 | Viasat KA-SAT | February 2022 | Sandworm/GRU | [news.viasat.com](https://news.viasat.com/blog/corporate/ka-sat-network-cyber-attack-overview) |
 | SolarWinds | December 2020 | CozyBear/SVR | [solarwinds.com](https://orangematter.solarwinds.com/2021/01/11/new-findings-from-our-investigation-of-sunburst/) |
-| Irirsh HSE | May 2021 | | [hse.ie](https://www.hse.ie/eng/services/news/media/pressrel/hse-publishes-independent-report-on-conti-cyber-attack.html) |
+| Irirsh HSE | May 2021 | Conti/WizardpSpider| [hse.ie](https://www.hse.ie/eng/services/news/media/pressrel/hse-publishes-independent-report-on-conti-cyber-attack.html) |
 | Avast/CCleaner | Spetember 2016 | WickedPanda/MSS | [blog.avast,com](https://blog.avast.com/update-ccleaner-attackers-entered-via-teamviewer) |
 | Cisco | May 2022 | Yanluowang| [blog.talosintelligence.com](https://blog.talosintelligence.com/recent-cyber-attack/) |
 | Microsoft | March 2022 | Lapsus$ | [microsoft.com](https://www.microsoft.com/en-us/security/blog/2022/03/22/dev-0537-criminal-actor-targeting-organizations-for-data-exfiltration-and-destruction/) |
