@@ -8,11 +8,11 @@
 | Reddit | February 2023 | 0ktapus (suspected) | [reddit.com](https://www.reddit.com/r/reddit/comments/10y427y/we_had_a_security_incident_heres_what_we_know/) / [(archived)](https://web.archive.org/web/20230210080951/https://www.reddit.com/r/reddit/comments/10y427y/we_had_a_security_incident_heres_what_we_know/)  |
 | CircleCI | January 2023 | Unknown | [circleci.com](https://circleci.com/blog/jan-4-2023-incident-report/) / [(archived)](https://web.archive.org/web/20230324014148/https://circleci.com/blog/jan-4-2023-incident-report/)|
 | LastPass | October 2022 | Unknown | [blog.lastpass.com](https://blog.lastpass.com/2023/03/security-incident-update-recommended-actions/) / [(archived)](https://web.archive.org/web/20230404132342/https://blog.lastpass.com/2023/03/security-incident-update-recommended-actions/) |
-| Uber | September 2022 | Lapsus$ (suspected) | [uber.com](https://www.uber.com/newsroom/security-update/) / [(archived)]() |
-| Okta | August 2022 | 0ktapus | [sec.okta.com](https://sec.okta.com/scatterswine) / [(archived)]() |
-| Twilio | August 2022 | 0ktapus | [twilio.com](https://www.twilio.com/blog/august-2022-social-engineering-attack) / [(archived)]() |
-| Cisco | May 2022 | Yanluowang| [blog.talosintelligence.com](https://blog.talosintelligence.com/recent-cyber-attack/) / [(archived)]() |
-| GitHub | April 2022 | Unkown | [github.blog](https://github.blog/2022-04-15-security-alert-stolen-oauth-user-tokens/) / [(archived)]() |
+| Uber | September 2022 | Lapsus$ (suspected) | [uber.com](https://www.uber.com/newsroom/security-update/) / [(archived)](https://web.archive.org/web/20230405195617/https://www.uber.com/newsroom/security-update/) |
+| Okta | August 2022 | 0ktapus | [sec.okta.com](https://sec.okta.com/scatterswine) / [(archived)](https://web.archive.org/web/20230131172440/https://sec.okta.com/scatterswine/) |
+| Twilio | August 2022 | 0ktapus | [twilio.com](https://www.twilio.com/blog/august-2022-social-engineering-attack) / [(archived)](https://web.archive.org/web/20230404043749/https://www.twilio.com/blog/august-2022-social-engineering-attack) |
+| Cisco | May 2022 | Yanluowang| [blog.talosintelligence.com](https://blog.talosintelligence.com/recent-cyber-attack/) / [(archived)](https://web.archive.org/web/20230407165709/https://blog.talosintelligence.com/recent-cyber-attack/) |
+| GitHub | April 2022 | Unkown | [github.blog](https://github.blog/2022-04-15-security-alert-stolen-oauth-user-tokens/) / [(archived)](https://web.archive.org/web/20230201012026/https://github.blog/2022-04-15-security-alert-stolen-oauth-user-tokens/) |
 | Microsoft | March 2022 | Lapsus$ | [microsoft.com](https://www.microsoft.com/en-us/security/blog/2022/03/22/dev-0537-criminal-actor-targeting-organizations-for-data-exfiltration-and-destruction/) / [(archived)]() |
 | Viasat KA-SAT | February 2022 | Sandworm (GRU) | [news.viasat.com](https://news.viasat.com/blog/corporate/ka-sat-network-cyber-attack-overview) / [(archived)]() |
 | Irish HSE | May 2021 | Conti | [hse.ie](https://www.hse.ie/eng/services/news/media/pressrel/hse-publishes-independent-report-on-conti-cyber-attack.html) / [(archived)]() |
