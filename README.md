@@ -13,7 +13,7 @@
 | GitHub | April 2022 | Unkown | [github.blog](https://github.blog/2022-04-15-security-alert-stolen-oauth-user-tokens/) |
 | Microsoft | March 2022 | Lapsus$ | [microsoft.com](https://www.microsoft.com/en-us/security/blog/2022/03/22/dev-0537-criminal-actor-targeting-organizations-for-data-exfiltration-and-destruction/) |
 | Viasat KA-SAT | February 2022 | Sandworm (GRU) | [news.viasat.com](https://news.viasat.com/blog/corporate/ka-sat-network-cyber-attack-overview) |
-| Irirsh HSE | May 2021 | Conti | [hse.ie](https://www.hse.ie/eng/services/news/media/pressrel/hse-publishes-independent-report-on-conti-cyber-attack.html)|
+| Irish HSE | May 2021 | Conti | [hse.ie](https://www.hse.ie/eng/services/news/media/pressrel/hse-publishes-independent-report-on-conti-cyber-attack.html)|
 | New Zealand Reserve Bank | January 2021 | FIN11 | [rbnz.govt.nz](https://www.rbnz.govt.nz/about-us/responsibility-and-accountability/our-response-to-the-data-breach) |
 | SolarWinds | December 2020 | CozyBear (SVR) | [solarwinds.com](https://orangematter.solarwinds.com/2021/01/11/new-findings-from-our-investigation-of-sunburst/) |
 | Equinix | September 2020| Netwalker | [datacenterdynamics.com](https://www.datacenterdynamics.com/en/analysis/michael-montoya-equinixs-ciso-a-year-on-from-its-2020-ransomware-incident/) |
