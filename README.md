@@ -5,6 +5,7 @@
 | Organization | Breach Date | Adversary | Source |
 |---|---|---|---|
 | Coinbase | February 2023 | 0ktapus (suspected) | [coinbase.com](https://www.coinbase.com/blog/social-engineering-a-coinbase-case-study) |
+| Reddit | February 2023 | 0ktapus (suspected) | [reddit.com](https://www.reddit.com/r/reddit/comments/10y427y/we_had_a_security_incident_heres_what_we_know/) |
 | CircleCI | January 2023 | Unknown | [circleci.com](https://circleci.com/blog/jan-4-2023-incident-report/) |
 | LastPass | October 2022 | Unknown | [blog.lastpass.com](https://blog.lastpass.com/2023/03/security-incident-update-recommended-actions/) |
 | Uber | September 2022 | Lapsus$ (suspected) | https://www.uber.com/newsroom/security-update/ |
