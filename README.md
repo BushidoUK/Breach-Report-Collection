@@ -7,6 +7,7 @@
 | Coinbase | February 2023 | 0ktapus (suspected) | [coinbase.com](https://www.coinbase.com/blog/social-engineering-a-coinbase-case-study) |
 | CircleCI | January 2023 | Unknown | [circleci.com](https://circleci.com/blog/jan-4-2023-incident-report/) |
 | LastPass | October 2022 | Unknown | [blog.lastpass.com](https://blog.lastpass.com/2023/03/security-incident-update-recommended-actions/) |
+| Uber | September 2022 | Lapsus$ (suspected) | https://www.uber.com/newsroom/security-update/ |
 | Okta | August 2022 | 0ktapus | [sec.okta.com](https://sec.okta.com/scatterswine) |
 | Twilio | August 2022 | 0ktapus | [twilio.com](https://www.twilio.com/blog/august-2022-social-engineering-attack) |
 | Cisco | May 2022 | Yanluowang| [blog.talosintelligence.com](https://blog.talosintelligence.com/recent-cyber-attack/) |
