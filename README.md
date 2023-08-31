@@ -4,6 +4,7 @@
 
 | Organization | Breach Date | Adversary | Source |
 |---|---|---|---|
+| Kroll | August 2023 | Unknown | [kroll.com](https://www.kroll.com/en/about-us/news/security-incident) / [(archived)](http://web.archive.org/web/20230828092420/https://www.kroll.com/en/about-us/news/security-incident) |
 | JumpCloud | July 2023 | UNC4899 (DPRK RGB) | [jumpcloud.com](https://jumpcloud.com/blog/security-update-incident-details) / [(archived)](https://web.archive.org/web/20230726144600/https://jumpcloud.com/blog/security-update-incident-details) |
 | Dragos | May 2023 | "KyivWarrior" | [dragos.com](https://www.dragos.com/blog/deconstructing-a-cybersecurity-event/) / [(archived)](https://web.archive.org/web/20230510160749/https://www.dragos.com/blog/deconstructing-a-cybersecurity-event/) |
 | 3CX | March 2023 | UNC4736 (DPRK RGB) | [mandiant.com](https://www.mandiant.com/resources/blog/3cx-software-supply-chain-compromise) / [(archived)](https://web.archive.org/web/20230514094509/https://www.mandiant.com/resources/blog/3cx-software-supply-chain-compromise) |
