@@ -4,6 +4,8 @@
 
 | Organization | Breach Date | Adversary | Source |
 |---|---|---|---|
+| BeyondTrust | October 2023 | Unknown | [beyondtrust.com](https://www.beyondtrust.com/blog/entry/okta-support-unit-breach) / [(archived)](http://web.archive.org/web/20231021002307/https://www.beyondtrust.com/blog/entry/okta-support-unit-breach) |
+| Okta | October 2023 | Unknown | [sec.okta.com](https://sec.okta.com/harfiles) / [(archived)](http://web.archive.org/web/20231020225420/https://sec.okta.com/harfiles/) |
 | Kroll | August 2023 | Unknown | [kroll.com](https://www.kroll.com/en/about-us/news/security-incident) / [(archived)](http://web.archive.org/web/20230828092420/https://www.kroll.com/en/about-us/news/security-incident) |
 | JumpCloud | July 2023 | UNC4899 (DPRK RGB) | [jumpcloud.com](https://jumpcloud.com/blog/security-update-incident-details) / [(archived)](https://web.archive.org/web/20230726144600/https://jumpcloud.com/blog/security-update-incident-details) |
 | Dragos | May 2023 | "KyivWarrior" | [dragos.com](https://www.dragos.com/blog/deconstructing-a-cybersecurity-event/) / [(archived)](https://web.archive.org/web/20230510160749/https://www.dragos.com/blog/deconstructing-a-cybersecurity-event/) |
