@@ -4,6 +4,7 @@
 
 | Organization | Breach Date | Adversary | Source |
 |---|---|---|---|
+| Boeing | November 2023 | LockBit | [cisa.gov](https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-325a) / [(archived)](http://web.archive.org/web/20231121190858/https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-325a) |
 | BeyondTrust | October 2023 | Unknown | [beyondtrust.com](https://www.beyondtrust.com/blog/entry/okta-support-unit-breach) / [(archived)](http://web.archive.org/web/20231021002307/https://www.beyondtrust.com/blog/entry/okta-support-unit-breach) |
 | Okta | October 2023 | Unknown | [sec.okta.com](https://sec.okta.com/harfiles) / [(archived)](http://web.archive.org/web/20231020225420/https://sec.okta.com/harfiles/) |
 | BHI Energy | October 2023 | Akira | [documentcloud.org](https://www.documentcloud.org/documents/24075435-bhi-notice) / [(archived)](http://web.archive.org/web/20231023214413/https://www.documentcloud.org/documents/24075435-bhi-notice) |
