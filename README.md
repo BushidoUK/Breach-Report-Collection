@@ -4,7 +4,7 @@
 
 | Organization | Breach Date | Adversary | Source |
 |---|---|---|---|
-| Microsoft | January 2024 | Cozy Bear (SVR) | [msrc.microsoft.com](https://msrc.microsoft.com/blog/2024/01/microsoft-actions-following-attack-by-nation-state-actor-midnight-blizzard/) / [(archived)](https://web.archive.org/web/20240120000859/https://msrc.microsoft.com/blog/2024/01/microsoft-actions-following-attack-by-nation-state-actor-midnight-blizzard/) |
+| Microsoft | January 2024 | Cozy Bear (SVR) | [msrc.microsoft.com]([https://msrc.microsoft.com/blog/2024/01/microsoft-actions-following-attack-by-nation-state-actor-midnight-blizzard/](https://www.microsoft.com/en-us/security/blog/2024/01/25/midnight-blizzard-guidance-for-responders-on-nation-state-attack/)) / [(archived)](https://web.archive.org/web/20240120000859/https://msrc.microsoft.com/blog/2024/01/microsoft-actions-following-attack-by-nation-state-actor-midnight-blizzard/) |
 | Mandiant | January 2024 | CLICKSINK | [mandiant.com](https://www.mandiant.com/resources/blog/solana-cryptocurrency-stolen-clinksink-drainer-campaigns) / [(archived)](https://web.archive.org/web/20240111010843/https://www.mandiant.com/resources/blog/solana-cryptocurrency-stolen-clinksink-drainer-campaigns) |
 | Nissan Australia | December 2023 | Akira | [nissan.com.au](https://www.nissan.com.au/website-update.html) / [(archived)](https://web.archive.org/web/20240102223637/https://www.nissan.com.au/website-update.html)|
 | Cloudflare | November 2023 | Unknown | [blog.cloudflare.com](https://blog.cloudflare.com/thanksgiving-2023-security-incident) / [(archived)](https://web.archive.org/web/20240000000000*/https://blog.cloudflare.com/thanksgiving-2023-security-incident) |
