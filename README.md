@@ -9,6 +9,7 @@
 | Nissan Australia | December 2023 | Akira | [nissan.com.au](https://www.nissan.com.au/website-update.html) / [(archived)](https://web.archive.org/web/20240102223637/https://www.nissan.com.au/website-update.html)|
 | Cloudflare | November 2023 | Unknown | [blog.cloudflare.com](https://blog.cloudflare.com/thanksgiving-2023-security-incident) / [(archived)](https://web.archive.org/web/20240000000000*/https://blog.cloudflare.com/thanksgiving-2023-security-incident) |
 | Boeing | November 2023 | LockBit | [cisa.gov](https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-325a) / [(archived)](http://web.archive.org/web/20231121190858/https://www.cisa.gov/news-events/cybersecurity-advisories/aa23-325a) |
+| British Library | October 2023 | Rhysida | [bl.uk](https://www.bl.uk/home/british-library-cyber-incident-review-8-march-2024.pdf) |
 | BeyondTrust | October 2023 | Unknown | [beyondtrust.com](https://www.beyondtrust.com/blog/entry/okta-support-unit-breach) / [(archived)](http://web.archive.org/web/20231021002307/https://www.beyondtrust.com/blog/entry/okta-support-unit-breach) |
 | Okta | October 2023 | Unknown | [sec.okta.com](https://sec.okta.com/harfiles) / [(archived)](http://web.archive.org/web/20231020225420/https://sec.okta.com/harfiles/) |
 | BHI Energy | October 2023 | Akira | [documentcloud.org](https://www.documentcloud.org/documents/24075435-bhi-notice) / [(archived)](http://web.archive.org/web/20231023214413/https://www.documentcloud.org/documents/24075435-bhi-notice) |
