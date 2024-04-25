@@ -4,7 +4,7 @@
 
 | Organization | Breach Date | Adversary | Source |
 |---|---|---|---|
-| MITRE | April 2024 | UTA0178/UNC5325 (CN APT) | [MITRE Blog](https://medium.com/mitre-engenuity/advanced-cyber-threats-impact-even-the-most-prepared-56444e980dc8) |
+| MITRE | April 2024 | UTA0178/UNC5325 (CN APT) | [MITRE Blog](https://medium.com/mitre-engenuity/advanced-cyber-threats-impact-even-the-most-prepared-56444e980dc8) / [(archived)](https://web.archive.org/web/20240422095324/https://medium.com/mitre-engenuity/advanced-cyber-threats-impact-even-the-most-prepared-56444e980dc8) |
 | Microsoft | January 2024 | CozyBear (RU APT) | [microsoft.com (1)](https://www.microsoft.com/en-us/security/blog/2024/01/25/midnight-blizzard-guidance-for-responders-on-nation-state-attack/), [microsoft.com (2)](https://msrc.microsoft.com/blog/2024/03/update-on-microsoft-actions-following-attack-by-nation-state-actor-midnight-blizzard/) / [(archived)](https://web.archive.org/web/20240120000859/https://msrc.microsoft.com/blog/2024/01/microsoft-actions-following-attack-by-nation-state-actor-midnight-blizzard/) |
 | Mandiant | January 2024 | CLICKSINK | [mandiant.com](https://www.mandiant.com/resources/blog/solana-cryptocurrency-stolen-clinksink-drainer-campaigns) / [(archived)](https://web.archive.org/web/20240111010843/https://www.mandiant.com/resources/blog/solana-cryptocurrency-stolen-clinksink-drainer-campaigns) |
 | Nissan Australia | December 2023 | Akira | [nissan.com.au](https://www.nissan.com.au/website-update.html) / [(archived)](https://web.archive.org/web/20240102223637/https://www.nissan.com.au/website-update.html)|
