@@ -4,6 +4,7 @@
 
 | Organization | Breach Date | Adversary | Source |
 |---|---|---|---|
+| DigiCert | April 2026 | GoldenEyeDog (CN APT) | [bugzilla.mozilla.org](https://bugzilla.mozilla.org/show_bug.cgi?id=2033170) / [(archived)](https://web.archive.org/web/20260430002326/https://bugzilla.mozilla.org/show_bug.cgi?id=2033170) |
 | F5 Networks | October 2025 | Unknown (APT) | [my.f5.com](https://my.f5.com/manage/s/article/K000154696) / [(archived)](https://archive.is/n2UwA) |
 | State of Rhode Island | December 2024 | Brain Cipher (Ransomware) | [rhodeislandcurrent.com](https://rhodeislandcurrent.com/wp-content/uploads/2025/05/RIBridges-Investigation-Summary-EMBARGOED.pdf) / [(archived)](https://web.archive.org/web/20250515221834/https://rhodeislandcurrent.com/wp-content/uploads/2025/05/RIBridges-Investigation-Summary-EMBARGOED.pdf) |
 | MITRE | April 2024 | UTA0178/UNC5325 (CN APT) | [MITRE Blog](https://medium.com/mitre-engenuity/advanced-cyber-threats-impact-even-the-most-prepared-56444e980dc8) / [(archived)](https://web.archive.org/web/20240422095324/https://medium.com/mitre-engenuity/advanced-cyber-threats-impact-even-the-most-prepared-56444e980dc8) |
