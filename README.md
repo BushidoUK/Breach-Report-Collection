@@ -40,6 +40,7 @@
 | Okta | April 2022 | Lapsus$ (eCrime) | [okta.com](https://www.okta.com/blog/2022/04/okta-concludes-its-investigation-into-the-january-2022-compromise/) / [(archived)](https://web.archive.org/web/20230325071437/https://www.okta.com/blog/2022/04/okta-concludes-its-investigation-into-the-january-2022-compromise/) |
 | Microsoft | March 2022 | Lapsus$ (eCrime) | [microsoft.com](https://www.microsoft.com/en-us/security/blog/2022/03/22/dev-0537-criminal-actor-targeting-organizations-for-data-exfiltration-and-destruction/) / [(archived)](https://web.archive.org/web/20230212051224/https://www.microsoft.com/en-us/security/blog/2022/03/22/dev-0537-criminal-actor-targeting-organizations-for-data-exfiltration-and-destruction/) |
 | Gloucester Council | November 2021 | Conti (Ransomware) | [democracy.gloucester.gov.uk](https://democracy.gloucester.gov.uk/documents/s59774/Appendix%201%20-%20Executive%20Summary%20of%20NCC%20Group%20Report.pdf) / [(archived)](https://web.archive.org/web/20240201223629/https://democracy.gloucester.gov.uk/documents/s59774/Appendix%201%20-%20Executive%20Summary%20of%20NCC%20Group%20Report.pdf) |
+| Direct Clothing Co. UK (DDCUK) | August 2021 | Magecart (suspected) (eCrime) | [ico.org.uk](https://ico.org.uk/media2/e3ef5pfb/direct-clothing-company-uk-reprimand.pdf) / [(archived)](https://web.archive.org/web/20260505181650/https://ico.org.uk/media2/e3ef5pfb/direct-clothing-company-uk-reprimand.pdf) |
 | Kaseya | July 2021 | REvil (Ransomware) | [helpdesk.kaseya.com](https://helpdesk.kaseya.com/hc/en-gb/articles/4403584098961-Incident-Overview-Technical-Details) / [(archived)](https://web.archive.org/web/20230416084704/https://helpdesk.kaseya.com/hc/en-gb/articles/4403584098961-Incident-Overview-Technical-Details) |
 | Viasat KA-SAT | February 2022 | Sandworm (RU APT) | [news.viasat.com](https://news.viasat.com/blog/corporate/ka-sat-network-cyber-attack-overview) / [(archived)](https://web.archive.org/web/20230407225107/https://news.viasat.com/blog/corporate/ka-sat-network-cyber-attack-overview) |
 | Irish HSE | May 2021 | Conti (Ransomware) | [hse.ie](https://www.hse.ie/eng/services/news/media/pressrel/hse-publishes-independent-report-on-conti-cyber-attack.html) / [(archived)](https://web.archive.org/web/20230323031057/https://www.hse.ie/eng/services/news/media/pressrel/hse-publishes-independent-report-on-conti-cyber-attack.html) |
@@ -56,3 +57,10 @@
 | Avast/CCleaner | September 2016 | WickedPanda (CN APT) | [blog.avast,com](https://blog.avast.com/update-ccleaner-attackers-entered-via-teamviewer) / [(archived)](https://web.archive.org/web/20230406024839/https://blog.avast.com/update-ccleaner-attackers-entered-via-teamviewer) |
 | Kaspersky | June 2015 | Duqu 2.0 (APT) | [kaspersky.com](https://www.kaspersky.com/about/press-releases/2015_duqu-is-back-kaspersky-lab-reveals-cyberattack-on-its-corporate-network-that-also-hit-high-profile-victims-in-western-countries-the-middle-east-and-asia) / [(archived)](https://web.archive.org/web/20221102194801/https://www.kaspersky.com/about/press-releases/2015_duqu-is-back-kaspersky-lab-reveals-cyberattack-on-its-corporate-network-that-also-hit-high-profile-victims-in-western-countries-the-middle-east-and-asia) |
 | RSA | April 2011 | Unknown (CN APT) | [(archived)](http://web.archive.org/web/20110413224418/http://blogs.rsa.com:80/rivner/anatomy-of-an-attack/)|
+
+---
+
+## 🗨️ Contacts
+
+- @BushidoToken on X
+- linkedin.com/in/william-t
