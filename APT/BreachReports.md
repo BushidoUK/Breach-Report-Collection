@@ -21,6 +21,7 @@
 | Equifax | May 2017 | CN APT | [oversight.house.gov](https://oversight.house.gov/wp-content/uploads/2018/12/Equifax-Report.pdf) / [(archived)](https://web.archive.org/web/20181211010005/https://oversight.house.gov/wp-content/uploads/2018/12/Equifax-Report.pdf) |
 | Avast/CCleaner | September 2016 | WickedPanda (CN APT) | [blog.avast,com](https://blog.avast.com/update-ccleaner-attackers-entered-via-teamviewer) / [(archived)](https://web.archive.org/web/20230406024839/https://blog.avast.com/update-ccleaner-attackers-entered-via-teamviewer) |
 | Kaspersky | June 2015 | Duqu 2.0 (APT) | [kaspersky.com](https://www.kaspersky.com/about/press-releases/2015_duqu-is-back-kaspersky-lab-reveals-cyberattack-on-its-corporate-network-that-also-hit-high-profile-victims-in-western-countries-the-middle-east-and-asia) / [(archived)](https://web.archive.org/web/20221102194801/https://www.kaspersky.com/about/press-releases/2015_duqu-is-back-kaspersky-lab-reveals-cyberattack-on-its-corporate-network-that-also-hit-high-profile-victims-in-western-countries-the-middle-east-and-asia) |
+| SK Communications | July 2011 | Unknown (CN APT) | [(archived)](https://web.archive.org/web/20160305004433/http://www.commandfive.com/papers/C5_APT_SKHack.pdf) |
 | RSA | April 2011 | Unknown (CN APT) | [(archived)](http://web.archive.org/web/20110413224418/http://blogs.rsa.com:80/rivner/anatomy-of-an-attack/)|
 
 ---
